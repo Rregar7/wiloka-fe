@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'segoe-ui';
+    src: url('assets/font/segoe-regular.ttf');
+}
+
+.active {
+    border-bottom: 2px solid #008F8D;
+}
+
+.login-button {
+    color: #008F8D !important;
+    border: 1px solid #008F8D !important;
+}
+
+.register-button {
+    background-color: #008F8D !important;
+}
+
+.register-button:hover {
+    background-color: #006a68 !important;
+    /* color: #008F8D !important; */
+}
+
+.p-nav-top {
+    margin-bottom: 16px !important;
+}
+/*^^^ Navbar ^^^*/
+
+.wisata {
+    margin-top: 100px;
+}
+
+.search-button {
+    background-color: #008F8D !important;
+    color: white !important;
+}
+
+.input-group input {
+    height: 60px;
+}
+
+/*vvv Footer vvv*/
+p {
+    margin-bottom: 8px !important;
+}
+
+.sosmed-group a {
+    color: white !important;
+    font-size: 24px !important;
+    margin-right: 20px;
+}
